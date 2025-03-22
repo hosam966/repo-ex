@@ -1,1 +1,1 @@
-Conflict Test
+added new line 
